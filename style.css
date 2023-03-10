@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+}
+
+.firstSection {
+  margin: auto;
+  width: 75%;
+  height: 100%;
+  background-color: brown;
+  /* align-items: center; */
+}
+
+.logo {
+  margin: 25px auto;
+  height: 800px;
+  width: 100%;
+}
+
+.logo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 100%;
+}
